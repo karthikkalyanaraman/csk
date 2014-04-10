@@ -1,7 +1,7 @@
 # CSK - 2048
 The Champions of T20
 
-Made just for fun. [Play it here!](http://kakaly.github.io/CSK/)
+Made just for fun. [Play it here!](http://karthikkalyanaraman.github.io/CSK/)
 
 ### Authored by:
 
